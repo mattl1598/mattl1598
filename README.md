@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: WebSockets in Python and JavaScript 
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
-	* Tweet me @mattl1598
+	* Tweet me @0xA455
 
 ## My Current Projects
 ### []()
