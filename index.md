@@ -1,3 +1,4 @@
+<body class="theme-base-08">
 ![Header](https://raw.githubusercontent.com/mattl1598/mattl1598/gh-pages/banner%20v1.png "Header")
 
 ## About Me
@@ -19,6 +20,8 @@ to a smaller group of borrowers.
 
 ### [Extended Project Qualification](EPQ)
 An essay about the pros and cons on implementing AI in consumer devices
+
+</body>
 
 <!---
 mattl1598/mattl1598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
