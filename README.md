@@ -1,3 +1,5 @@
+![Header](banner v1.png "Header")
+
 ## About Me
 
 - 👋 Hi, I’m Matthew, a 2nd year Computer Science Student at Cardiff University
