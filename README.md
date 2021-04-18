@@ -14,7 +14,7 @@
 
 ## My Past Projects
 
- 
+ Project | 
  --- | --- 
 [Project Bookworm](Project-Bookworm) | A scalable library management solution for loaning large quantities of books to a smaller group of borrowers.
 [Extended Project Qualification](EPQ) | An essay about the pros and cons on implementing AI in consumer devices.
