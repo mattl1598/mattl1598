@@ -1,4 +1,4 @@
-![Header](./banner v1.png "Header")
+![Header](https://github.com/mattl1598/mattl1598/blob/7d9b25e0c41d5b2ff121783bdf1d25add6412a22/banner%20v1.png "Header")
 
 ## About Me
 
