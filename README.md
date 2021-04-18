@@ -7,19 +7,17 @@
 - 🌱 I’m currently learning: WebSockets in Python and JavaScript 
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
-	* Tweet me @mattl1598
+	* Tweet me @0xA455
 
 ## My Current Projects
 ### []()
 
 ## My Past Projects
-### [Project Bookworm](Project-Bookworm)
-A scalable library management solution for loaning large quantities of books
-to a smaller group of borrowers.
 
-### [Extended Project Qualification](EPQ)
-An essay about the pros and cons on implementing AI in consumer devices
-
+ Project | Description
+ --- | --- 
+[Project Bookworm](Project-Bookworm) | A scalable library management solution for loaning large quantities of books to a smaller group of borrowers.
+[Extended Project Qualification](EPQ) | An essay about the pros and cons on implementing AI in consumer devices.
 <!---
 mattl1598/mattl1598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
