@@ -1,4 +1,4 @@
-![Header](https://github.com/mattl1598/mattl1598/blob/7d9b25e0c41d5b2ff121783bdf1d25add6412a22/banner%20v1.png "Header")
+![banner v2](https://user-images.githubusercontent.com/37371392/118371401-6d6c2500-b5a4-11eb-9c7a-a4b4b2293633.png)
 
 ## About Me
 
@@ -12,7 +12,7 @@
 ## My Current Projects
  Project | Description
  --- | --- 
-[Project CORHA](project-corha) | A Collection of Random Helpful Algorithms - A python module with some useful functions and classes that I've written and collected over time.
+[Project CORHA](project-corha) | A Collection of Random Helpful Algorithms - A Python module with some useful functions and classes that I've written and collected over time.
 [Project Cherry Pi](project-cherry-pi) | My experimental flask website for testing ideas and learning new web technologies.
 [Project Magic Limes](project-magic-limes) - On Ice | WIP - A Machine Vision project for the automation of follow spotlights in theatre. (Postponed due to covid restrictions)
 [LED Clock](led-clock) - On Ice | WIP - The software behind running my back-lit ping pong ball clock.
