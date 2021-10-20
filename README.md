@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 👋 Hi, I’m Matthew, a 2nd year Computer Science Student at Cardiff University
+- 👋 Hi, I’m Matthew, a 3rd year Computer Science Student at Cardiff University
 <!--- - 👀 I’m interested in ...--->
 - 🌱 I’m currently learning: WebSockets in Python and JavaScript 
 <!--- - 💞️ I’m looking to collaborate on ...--->
