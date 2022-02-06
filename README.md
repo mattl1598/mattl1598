@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Matthew, a 3rd year Computer Science Student at Cardiff University
 <!--- - 👀 I’m interested in ...--->
-- 🌱 I’m currently learning: WebSockets in Python and JavaScript 
+- 🌱 I’m currently learning: Vue.JS, WebSockets
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
 	* Tweet me [@0xA455](https://twitter.com/0xA455)
@@ -12,6 +12,7 @@
 ## My Current Projects
  Project | Description
  --- | --- 
+[Open AmDram Portal](open-amdram-portal) | An open-source webapp for Amateur Dramatics groups - My university 3rd year project.
 [Project CORHA](project-corha) | A Collection of Random Helpful Algorithms - A Python module with some useful functions and classes that I've written and collected over time.
 [Project Cherry Pi](project-cherry-pi) | My experimental flask website for testing ideas and learning new web technologies.
 [Project Magic Limes](project-magic-limes) - On Ice | WIP - A Machine Vision project for the automation of follow spotlights in theatre. (Postponed due to covid restrictions)
