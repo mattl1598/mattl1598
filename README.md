@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 👋 Hi, I’m Matthew, a 4th year Computer Science Student at Cardiff University
+- 👋 Hi, I’m Matthew, a Software Developer currently focusing on Web Development in Python and Javascript 
 <!--- - 👀 I’m interested in ...--->
-- 🌱 I’m currently learning: Vue.JS, WebSockets
+- 🌱 I’m currently learning: React
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me ...
 	* Tweet me [@mattl1598](https://twitter.com/mattl1598)
